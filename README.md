@@ -7,8 +7,8 @@ It is a C# QR Code generator for standard QR codes.
 
 #### Using:
 
-You can create code for wifi, url, sms, whatsapp.
+You can create code for wifi, url, sms, whatsapp messages.
 
 
 
-Created using library NuGet https://github.com/codebude/QRCoder/wiki
+This program is situated in library NuGet https://github.com/codebude/QRCoder/wiki
