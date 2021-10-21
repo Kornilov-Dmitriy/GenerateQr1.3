@@ -112,7 +112,7 @@ namespace GenerateQr
                 payload = generator.ToString();
             }
 
-            // Check data for Check data for wifi
+            // Check data for Check data for WhatsApp
             else if (ExpanderWhatsApp.IsExpanded == true) {
                 WhatsAppMessage generator = new WhatsAppMessage(TextBoxNumberWhatsApp.Text, TextboxTextWhatsApp.Text);
                 payload = generator.ToString();
