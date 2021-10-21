@@ -11,4 +11,4 @@ You can create code for wifi, url, sms, whatsapp.
 
 
 
-*NuGet V2 feed URL (Visual Studio 2012+):* `https://www.myget.org/F/qrcoder/api/v2`
+Created isung library *NuGet https://github.com/codebude/QRCoder/wiki
