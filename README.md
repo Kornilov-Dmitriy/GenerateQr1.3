@@ -11,4 +11,4 @@ You can create code for wifi, url, sms, whatsapp.
 
 
 
-Created isung library *NuGet https://github.com/codebude/QRCoder/wiki
+Created using library *NuGet https://github.com/codebude/QRCoder/wiki
